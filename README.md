@@ -10,6 +10,8 @@ Turns a raw list of prospects into a fully enriched, ICP-scored, personalized CS
 
 | File | Description |
 |------|-------------|
+| `instructions - Case study - RevOps & Growth intern - 2026.pdf` | Instructions of the case study |
+| `Case study - 2026_Remy_LE.md` | Doc answering the case study's instructions (including Clay workflow, Loom video for demo) |
 | `pipeline.py` | End-to-end enrichment pipeline (source → enrich → score → personalize → export) |
 | `northstar_dashboard.jsx` | Interactive React dashboard to explore pipeline output |
 | `enriched_leads.csv` | Sample output — 20 enriched, scored, personalized leads |
